@@ -137,7 +137,7 @@ Sharpe Ratio = Mean Daily Return / Standard Deviation of Daily Return × √252
 ```text
 moving-average-backtester/
 │
-├── backtest.py
+├── Investment_Crossover_Strategy.py
 ├── requirements.txt
 └── README.md
 ```
